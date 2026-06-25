@@ -1,0 +1,24 @@
+# Large media — exceed GitHub size limits and may be proprietary footage
+*.mp4
+*.avi
+*.mov
+
+# Model weights (auto-downloaded by Ultralytics on first run)
+*.pt
+
+# Ultralytics training/inference run artifacts
+runs/
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# OS / editor
+desktop.ini
+Thumbs.db
+.DS_Store
+.vscode/
+.idea/
