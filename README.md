@@ -24,7 +24,7 @@ GarmentsVision turns raw factory-floor footage into a quantitative measure of ho
 
 ```
 GarmentsVision/
-├── r&d (using fourier transformation).ipynb   # end-to-end pipeline & analysis
+├── garment_cadence_analysis.ipynb             # end-to-end pipeline & analysis
 ├── output/
 │   └── hand_points.txt                         # sample extracted wrist trajectories
 ├── requirements.txt
@@ -52,7 +52,7 @@ when a GPU is available and falls back to CPU otherwise.
 
 ### 2. Run the notebook
 
-Open `r&d (using fourier transformation).ipynb` and **Run All**. Configuration lives in a
+Open `garment_cadence_analysis.ipynb` and **Run All**. Configuration lives in a
 single block at the top of the extraction cell:
 
 ```python
