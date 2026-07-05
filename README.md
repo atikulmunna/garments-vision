@@ -6,6 +6,14 @@ GarmentsVision turns raw factory-floor footage into a quantitative measure of ho
 
 ---
 
+## Demo
+
+▶️ **[Watch the pose-tracking output video](https://github.com/atikulmunna/garments-vision/releases/download/v1.0/pose_tracking_demo.mp4)** — the cropped workstation with skeletons, tracker IDs, and wrist keypoints overlaid (192 MB, attached to the [v1.0 release](https://github.com/atikulmunna/garments-vision/releases/tag/v1.0)).
+
+The full-resolution video is hosted as a release asset rather than committed, to keep the repository lean.
+
+---
+
 ## How it works
 
 ```
